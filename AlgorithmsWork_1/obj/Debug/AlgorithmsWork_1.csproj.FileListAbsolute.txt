@@ -1,0 +1,7 @@
+C:\workspace\GitHub\Michael\Algorithm_Work\AlgorithmsWork_1\bin\Debug\AlgorithmsWork_1.exe.config
+C:\workspace\GitHub\Michael\Algorithm_Work\AlgorithmsWork_1\bin\Debug\AlgorithmsWork_1.exe
+C:\workspace\GitHub\Michael\Algorithm_Work\AlgorithmsWork_1\bin\Debug\AlgorithmsWork_1.pdb
+C:\workspace\GitHub\Michael\Algorithm_Work\AlgorithmsWork_1\obj\Debug\AlgorithmsWork_1.csproj.AssemblyReference.cache
+C:\workspace\GitHub\Michael\Algorithm_Work\AlgorithmsWork_1\obj\Debug\AlgorithmsWork_1.csproj.CoreCompileInputs.cache
+C:\workspace\GitHub\Michael\Algorithm_Work\AlgorithmsWork_1\obj\Debug\AlgorithmsWork_1.exe
+C:\workspace\GitHub\Michael\Algorithm_Work\AlgorithmsWork_1\obj\Debug\AlgorithmsWork_1.pdb
