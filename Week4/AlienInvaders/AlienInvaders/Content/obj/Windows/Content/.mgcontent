@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/workspace/GitHub/Michael/gp1finalgame-mike12699/src/AlienInvaders/AlienInvaders/Content/Arial.spritefont</File>
+    <File>C:/workspace/GitHub/Michael/gp1finalgame-mike12699/src/AlienInvaders/AlienInvaders/Content/imageEnd.jpg</File>
+    <File>C:/workspace/GitHub/Michael/gp1finalgame-mike12699/src/AlienInvaders/AlienInvaders/Content/imageWin.jpg</File>
+    <File>C:/workspace/GitHub/Michael/gp1finalgame-mike12699/src/AlienInvaders/AlienInvaders/Content/invader.png</File>
+    <File>C:/workspace/GitHub/Michael/gp1finalgame-mike12699/src/AlienInvaders/AlienInvaders/Content/projectile.png</File>
+    <File>C:/workspace/GitHub/Michael/gp1finalgame-mike12699/src/AlienInvaders/AlienInvaders/Content/spaceship.png</File>
+    <File>C:/workspace/GitHub/Michael/gp1finalgame-mike12699/src/AlienInvaders/AlienInvaders/Content/stars1.jpg</File>
+    <File>C:/workspace/GitHub/Michael/gp1finalgame-mike12699/src/AlienInvaders/AlienInvaders/Content/stars2.jpg</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/workspace/GitHub/Michael/gp1finalgame-mike12699/src/AlienInvaders/AlienInvaders/Content/stars2.jpg</SourceFile>
+  <SourceTime>2020-12-07T19:13:24.3205259-06:00</SourceTime>
+  <DestFile>C:/workspace/GitHub/Michael/gp1finalgame-mike12699/src/AlienInvaders/AlienInvaders/Content/bin/Windows/Content/stars2.xnb</DestFile>
+  <DestTime>2020-12-14T13:12:08.4762608-06:00</DestTime>
+  <Importer>TextureImporter</Importer>
+  <ImporterTime>2019-07-19T12:50:46-05:00</ImporterTime>
+  <Processor>TextureProcessor</Processor>
+  <ProcessorTime>2019-07-19T12:50:46-05:00</ProcessorTime>
+  <Parameters>
+    <Key>ColorKeyColor</Key>
+    <Value>255,0,255,255</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ColorKeyEnabled</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>GenerateMipmaps</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ResizeToPowerOfTwo</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>MakeSquare</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Color</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

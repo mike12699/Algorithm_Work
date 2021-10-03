@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/workspace/GitHub/Michael/gp1finalgame-mike12699/src/AlienInvaders/MonoGameLibrary/Content/Arial.spritefont","C:/workspace/GitHub/Michael/gp1finalgame-mike12699/src/AlienInvaders/MonoGameLibrary/Content/bin/DesktopGL/Content/Arial.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21521,0.3228209
+"C:/workspace/GitHub/Michael/gp1finalgame-mike12699/src/AlienInvaders/MonoGameLibrary/Content/SpriteMarker.png","C:/workspace/GitHub/Michael/gp1finalgame-mike12699/src/AlienInvaders/MonoGameLibrary/Content/bin/DesktopGL/Content/SpriteMarker.xnb","TextureProcessor","Texture2DContent",232,185,0.0509748
