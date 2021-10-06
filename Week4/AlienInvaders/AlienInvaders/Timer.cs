@@ -8,6 +8,11 @@ using Microsoft.Xna.Framework.Graphics;
 
 namespace AlienInvaders
 {
+    /// <summary>
+    /// This class handles the timer that is displayed in the game.
+    /// Players can keep track of it and the end screen will display the final time
+    /// beating the game.
+    /// </summary>
     public class Timer : DrawableGameComponent
     {
         SpriteBatch sb;

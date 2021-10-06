@@ -8,6 +8,10 @@ using Microsoft.Xna.Framework.Graphics;
 
 namespace AlienInvaders
 {
+    /// <summary>
+    /// This class handles the game over screen and the win screen
+    /// Both game states prompt the player to restart for a faster time
+    /// </summary>
     public class GameStates : DrawableGameComponent
     {
         SpriteBatch sb;
@@ -50,6 +54,11 @@ namespace AlienInvaders
             base.Update(gameTime);
         }
 
+        /// <summary>
+        /// Thus calls in the game states depending on the scenario
+        /// A player can either get a game over or win the game
+        /// </summary>
+        /// <param name="gameTime"></param>
         public override void Draw(GameTime gameTime)
         {
             sb.Begin();

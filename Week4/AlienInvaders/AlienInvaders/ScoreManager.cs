@@ -9,6 +9,9 @@ using Microsoft.Xna.Framework.Graphics;
 
 namespace AlienInvaders
 {
+    /// <summary>
+    /// This class is meant to display the on-screen instructions
+    /// </summary>
     class ScoreManager : DrawableGameComponent
     {
         public static FileStream FileRead;
@@ -78,12 +81,17 @@ namespace AlienInvaders
             }
             base.Update(gameTime);
         }
+
+        /// <summary>
+        /// This class is meant to keep track of the times whenever completing the game
+        /// It would then save it as a text file to keep score
+        /// </summary>
         public static void GetMaxTimes()
         {
             bool workingFileIO = true;
             try
             {
-                FileRead = new FileStream("aliemMaxTimes.txt", FileMode.OpenOrCreate, FileAccess.Read);
+                FileRead = new FileStream("alienMaxTimes.txt", FileMode.OpenOrCreate, FileAccess.Read);
                 ScoreRead = new StreamReader(FileRead);
                 for (int i = 0; i < maxScores; i++)
                 {

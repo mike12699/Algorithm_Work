@@ -11,6 +11,12 @@ using MonoGameLibrary.Util;
 
 namespace AlienInvaders
 {
+    /// <summary>
+    /// This is where most of the base code falls under
+    /// Both the player inputs and enemy movements are utilized here
+    /// I realize that this particular class is very unorganized and could be fixed for
+    /// separation of concern
+    /// </summary>
     public class PlayerInput : DrawableGameComponent
     {
         SpriteBatch sb;
@@ -35,6 +41,10 @@ namespace AlienInvaders
             base.Initialize();
         }
 
+        /// <summary>
+        /// This method loads in the enemies and the player
+        /// The enemies are in rows and columns and move back and forth
+        /// </summary>
         protected override void LoadContent()
         {
             sb = new SpriteBatch(this.Game.GraphicsDevice);
