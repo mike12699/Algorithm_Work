@@ -1,0 +1,7 @@
+C:\workspace\Michael\Github\Algorithm_Work\Week5\FisherYatesSample\bin\Debug\FisherYatesSample.exe.config
+C:\workspace\Michael\Github\Algorithm_Work\Week5\FisherYatesSample\bin\Debug\FisherYatesSample.exe
+C:\workspace\Michael\Github\Algorithm_Work\Week5\FisherYatesSample\bin\Debug\FisherYatesSample.pdb
+C:\workspace\Michael\Github\Algorithm_Work\Week5\FisherYatesSample\obj\Debug\FisherYatesSample.csproj.AssemblyReference.cache
+C:\workspace\Michael\Github\Algorithm_Work\Week5\FisherYatesSample\obj\Debug\FisherYatesSample.csproj.CoreCompileInputs.cache
+C:\workspace\Michael\Github\Algorithm_Work\Week5\FisherYatesSample\obj\Debug\FisherYatesSample.exe
+C:\workspace\Michael\Github\Algorithm_Work\Week5\FisherYatesSample\obj\Debug\FisherYatesSample.pdb
