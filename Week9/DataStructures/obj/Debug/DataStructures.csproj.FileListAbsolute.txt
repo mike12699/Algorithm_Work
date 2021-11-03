@@ -1,0 +1,7 @@
+C:\workspace\Michael\Github\Algorithm_Work\Week9\DataStructures\bin\Debug\DataStructures.exe.config
+C:\workspace\Michael\Github\Algorithm_Work\Week9\DataStructures\bin\Debug\DataStructures.exe
+C:\workspace\Michael\Github\Algorithm_Work\Week9\DataStructures\bin\Debug\DataStructures.pdb
+C:\workspace\Michael\Github\Algorithm_Work\Week9\DataStructures\obj\Debug\DataStructures.csproj.AssemblyReference.cache
+C:\workspace\Michael\Github\Algorithm_Work\Week9\DataStructures\obj\Debug\DataStructures.csproj.CoreCompileInputs.cache
+C:\workspace\Michael\Github\Algorithm_Work\Week9\DataStructures\obj\Debug\DataStructures.exe
+C:\workspace\Michael\Github\Algorithm_Work\Week9\DataStructures\obj\Debug\DataStructures.pdb
