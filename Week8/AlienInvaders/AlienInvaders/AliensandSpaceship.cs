@@ -24,7 +24,7 @@ namespace AlienInvaders
         public static bool[,] invaderalive;
         public static int rows = 5;
         public static int cols = 10;
-        public static int invaderspeed = 3;
+        public static int invaderspeed = 4;
         public static string Direction = "RIGHT";
 
         public AliensandSpaceship(Game game) : base(game)
@@ -98,7 +98,7 @@ namespace AlienInvaders
                 {
                     for (int c = 0; c < cols; c++)
                     {
-                        rectinvader[r, c].Y = rectinvader[r, c].Y + 5;
+                        rectinvader[r, c].Y = rectinvader[r, c].Y + 10;
                     }
                 }
             }
@@ -117,9 +117,13 @@ namespace AlienInvaders
             {
                 invaderspeed = invaderspeed;
             }
-            if (count < (rows * cols / 3))
+            if (count < (rows * cols / 2))
             {
-                invaderspeed = 4;
+                invaderspeed = 6;
+            }
+            if (count < (rows * cols / 5))
+            {
+                invaderspeed = 10;
             }
             base.Update(gameTime);
         }

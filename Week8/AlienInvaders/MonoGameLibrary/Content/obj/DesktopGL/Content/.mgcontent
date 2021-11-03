@@ -4,8 +4,8 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/workspace/Michael/Github/Algorithm_Work/Week4/AlienInvaders/MonoGameLibrary/Content/Arial.spritefont</File>
-    <File>C:/workspace/Michael/Github/Algorithm_Work/Week4/AlienInvaders/MonoGameLibrary/Content/SpriteMarker.png</File>
+    <File>C:/workspace/Michael/Github/Algorithm_Work/Week8/AlienInvaders/MonoGameLibrary/Content/Arial.spritefont</File>
+    <File>C:/workspace/Michael/Github/Algorithm_Work/Week8/AlienInvaders/MonoGameLibrary/Content/SpriteMarker.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

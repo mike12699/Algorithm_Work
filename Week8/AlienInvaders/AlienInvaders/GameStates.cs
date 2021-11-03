@@ -66,6 +66,7 @@ namespace AlienInvaders
             {
                 case 1:
                     sb.Draw(imageEnd, endScreenLose_Loc, Color.White);
+                    Timer.time = 0;
                     break;
                 case 2:
                     sb.Draw(imageWin, endScreenWin_Loc, Color.White);
@@ -73,6 +74,7 @@ namespace AlienInvaders
                     {
                         sb.DrawString(ScoreManager.Font, maxTimesLabel, textPos_1, Color.White);
                         sb.DrawString(ScoreManager.Font, ScoreManager.textMaxTime_2[0], textPos_2, Color.White);
+                        Timer.time = 0;
                     }
                     break;
             }

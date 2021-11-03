@@ -4,14 +4,14 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/workspace/Michael/Github/Algorithm_Work/Week4/AlienInvaders/AlienInvaders/Content/Arial.spritefont</File>
-    <File>C:/workspace/Michael/Github/Algorithm_Work/Week4/AlienInvaders/AlienInvaders/Content/imageEnd.jpg</File>
-    <File>C:/workspace/Michael/Github/Algorithm_Work/Week4/AlienInvaders/AlienInvaders/Content/imageWin.jpg</File>
-    <File>C:/workspace/Michael/Github/Algorithm_Work/Week4/AlienInvaders/AlienInvaders/Content/invader.png</File>
-    <File>C:/workspace/Michael/Github/Algorithm_Work/Week4/AlienInvaders/AlienInvaders/Content/projectile.png</File>
-    <File>C:/workspace/Michael/Github/Algorithm_Work/Week4/AlienInvaders/AlienInvaders/Content/spaceship.png</File>
-    <File>C:/workspace/Michael/Github/Algorithm_Work/Week4/AlienInvaders/AlienInvaders/Content/stars1.jpg</File>
-    <File>C:/workspace/Michael/Github/Algorithm_Work/Week4/AlienInvaders/AlienInvaders/Content/stars2.jpg</File>
+    <File>C:/workspace/Michael/Github/Algorithm_Work/Week8/AlienInvaders/AlienInvaders/Content/Arial.spritefont</File>
+    <File>C:/workspace/Michael/Github/Algorithm_Work/Week8/AlienInvaders/AlienInvaders/Content/imageEnd.jpg</File>
+    <File>C:/workspace/Michael/Github/Algorithm_Work/Week8/AlienInvaders/AlienInvaders/Content/imageWin.jpg</File>
+    <File>C:/workspace/Michael/Github/Algorithm_Work/Week8/AlienInvaders/AlienInvaders/Content/invader.png</File>
+    <File>C:/workspace/Michael/Github/Algorithm_Work/Week8/AlienInvaders/AlienInvaders/Content/projectile.png</File>
+    <File>C:/workspace/Michael/Github/Algorithm_Work/Week8/AlienInvaders/AlienInvaders/Content/spaceship.png</File>
+    <File>C:/workspace/Michael/Github/Algorithm_Work/Week8/AlienInvaders/AlienInvaders/Content/stars1.jpg</File>
+    <File>C:/workspace/Michael/Github/Algorithm_Work/Week8/AlienInvaders/AlienInvaders/Content/stars2.jpg</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />
