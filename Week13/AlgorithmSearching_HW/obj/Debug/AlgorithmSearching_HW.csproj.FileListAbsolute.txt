@@ -1,0 +1,7 @@
+C:\workspace\Michael\Github\Algorithm_Work\Week13\AlgorithmSearching_HW\bin\Debug\AlgorithmSearching_HW.exe.config
+C:\workspace\Michael\Github\Algorithm_Work\Week13\AlgorithmSearching_HW\bin\Debug\AlgorithmSearching_HW.exe
+C:\workspace\Michael\Github\Algorithm_Work\Week13\AlgorithmSearching_HW\bin\Debug\AlgorithmSearching_HW.pdb
+C:\workspace\Michael\Github\Algorithm_Work\Week13\AlgorithmSearching_HW\obj\Debug\AlgorithmSearching_HW.csproj.AssemblyReference.cache
+C:\workspace\Michael\Github\Algorithm_Work\Week13\AlgorithmSearching_HW\obj\Debug\AlgorithmSearching_HW.csproj.CoreCompileInputs.cache
+C:\workspace\Michael\Github\Algorithm_Work\Week13\AlgorithmSearching_HW\obj\Debug\AlgorithmSearching_HW.exe
+C:\workspace\Michael\Github\Algorithm_Work\Week13\AlgorithmSearching_HW\obj\Debug\AlgorithmSearching_HW.pdb
